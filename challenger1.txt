@@ -1,0 +1,9 @@
+Dado um array de números inteiros nums e um número inteiro target, retorne os índices de dois números que somam exatamente o valor de target.
+
+Você pode assumir que sempre haverá exatamente uma solução, e você não pode usar o mesmo elemento duas vezes.
+
+Você pode retornar a resposta em qualquer ordem.
+
+Exemplo
+Entrada: nums = [2, 7, 1, 11, 15], target = 9
+Saída: [0, 1]
